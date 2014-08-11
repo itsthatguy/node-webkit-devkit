@@ -1,0 +1,11 @@
+{
+  "name": "node-webkit-devkit",
+  "main": "index.html",
+  "version": "0.1.0",
+  "description": "node-webkit-devkit is a happiness multiplier.",
+  "window": {
+    "toolbar": true,
+    "frame": true,
+    "title": "node-webkit-devkit"
+    }
+  }
